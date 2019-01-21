@@ -1,5 +1,9 @@
 # easy-share
 lequick fi
+ 
+ 
+- url:  github.com/gkosmo/easy-share
+
 
 ***  
 
